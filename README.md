@@ -13,17 +13,3 @@ Sou estudante de Tecnologia e Desenvolvedor Web com foco em Java. 🧑‍💻�
 ### 📊 GitHub Stats:
 
 [![Douglas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Douglas-Andrade-Severa&show_icons=true&theme=radical)](https://github.com/Douglas-Andrade-Severa)
-
----
-
-### 🐍 Snake Contribution:
-
-<img src="https://raw.githubusercontent.com/Douglas-Andrade-Severa/Douglas-Andrade-Severa/output/snake.svg" alt="Snake animation" />
-
----
-
-### 👤 Visitantes no perfil:
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Douglas-Andrade-Severa/count.svg?" alt="Contador de visitas" />
-</div>
