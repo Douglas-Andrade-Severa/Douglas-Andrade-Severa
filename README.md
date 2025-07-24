@@ -1,7 +1,29 @@
-### Ei 🖖, sou o Douglas Andrade
-### Sou estudante de Técnologia e Desenvolvedor Web com Java. 🧑‍🎓
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/douglas.severa/)
+### Ei, eu sou o Douglas Andrade 🖖  
+Sou estudante de Tecnologia e Desenvolvedor Web com foco em Java. 🧑‍💻🚀  
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-andrade-162979193?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bgc5jTw3AQcy5y5EZsJScoA%3D%3D)
+---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Douglas-Andrade-Severa)](https://github.com/Douglas-Andrade-Severa/github-readme-stats)
+### 🌐 Conecte-se comigo:
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/douglas.severa/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-andrade-162979193/)
+
+---
+
+### 📊 GitHub Stats:
+
+[![Douglas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Douglas-Andrade-Severa&show_icons=true&theme=radical)](https://github.com/Douglas-Andrade-Severa)
+
+---
+
+### 🐍 Snake Contribution:
+
+<img src="https://raw.githubusercontent.com/Douglas-Andrade-Severa/Douglas-Andrade-Severa/output/snake.svg" alt="Snake animation" />
+
+---
+
+### 👤 Visitantes no perfil:
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Douglas-Andrade-Severa/count.svg?" alt="Contador de visitas" />
+</div>
